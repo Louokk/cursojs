@@ -25,10 +25,10 @@ Conceptos que entran en la 1er Preentrega
 
 - Funciones
 
-Funciones sin parámetros
+Funciones sin parámetros x
 
-Funciones con parámetros
+Funciones con parámetros x
 
-Funciones anónimas
+Funciones anónimas 
 
 Funciones flecha
